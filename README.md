@@ -1,3 +1,1 @@
-# sys265
-# 2ND LINE
-# sys265-scripts
+# sys265-scripts[ben@bweb01-ben sys265-scripts]$
